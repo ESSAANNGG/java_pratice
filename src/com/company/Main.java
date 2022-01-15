@@ -21,6 +21,5 @@ public class Main {
         System.out.println(MAX_SIZE);
         System.out.println(CONST_CHAR);
         System.out.println(CONST_ASSIGNED);
-
     }
 }
