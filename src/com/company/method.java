@@ -17,7 +17,6 @@ public class method {
         int addResult = num1 + num2;
         return addResult; // addResult의 값을 반환
     }
-
     public static double square(double num){
         return num * num;
     }
